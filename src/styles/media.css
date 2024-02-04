@@ -1,0 +1,5 @@
+    @media screen and (max-width: 1015px){
+        .item__list{
+            grid-template-columns: 1fr  1fr;
+        }
+    }
