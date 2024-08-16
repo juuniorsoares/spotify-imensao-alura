@@ -1,2 +1,8 @@
-# spotify-imensao-alura
- página de busca do spotify
+Pagina de busca de musicas do spotify.
+
+TECNOLOGIAS USADAS:
+- HTML
+- CSS
+- JAVASCRIPT
+
+FOI USADA TAMBEM UMA API PARA GUARDAR OS NOMES DOS ARTISTAS QUE O USUARIO QUEIRA PROCURAR.
